@@ -54,13 +54,13 @@
 Claude Code 스킬 디렉토리에 클론합니다:
 
 ```bash
-git clone https://github.com/dotoricode/prompt-grill.git ~/.claude/skills/prompt-grill
+git clone https://github.com/dotoridot/prompt-grill.git ~/.claude/skills/prompt-grill
 ```
 
 커스텀 경로를 쓴다면 목적지를 바꿉니다:
 
 ```bash
-git clone https://github.com/dotoricode/prompt-grill.git ~/.claude-personal/skills/prompt-grill
+git clone https://github.com/dotoridot/prompt-grill.git ~/.claude-personal/skills/prompt-grill
 ```
 
 이후 Claude Code에서 `/skills`를 실행합니다. 목록에 `prompt-grill`이 보이면 완료입니다.
@@ -75,7 +75,7 @@ git clone https://github.com/dotoricode/prompt-grill.git ~/.claude-personal/skil
 ## 관련 스킬
 
 - [`grill-me`](https://github.com/mattpocock/skills) by Matt Pocock — 이 스킬이 기반으로 삼은 인터뷰 패턴.
-- [`cerberus`](https://github.com/dotoricode/cerberus) — prompt-grill(헤드 1), grill-me(헤드 2), 의도 검증(헤드 3)을 하나의 3단계 검증 워크플로우로 연결한 스킬.
+- [`cerberus`](https://github.com/dotoridot/cerberus) — prompt-grill(헤드 1), grill-me(헤드 2), 의도 검증(헤드 3)을 하나의 3단계 검증 워크플로우로 연결한 스킬.
 
 ## 라이선스
 
